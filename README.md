@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="menu.css">
-  <title>Education Landing Page</title>
+
 </head>
 <body>
  <nav>
@@ -43,15 +43,7 @@
      </div>
    </div>
    
-   <!-- javascript to make side menu appear -->
- <script>
-   function openNav() {
-     document.getElementById("sidenav").style.width = "50%";
-   }
-   function closeNav() {
-     document.getElementById("sidenav").style.width = "0%";
-   }
- </script>
+  
  
 </body>
 </html>
